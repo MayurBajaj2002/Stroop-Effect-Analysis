@@ -1,6 +1,4 @@
 # Stroop-Effect_Analysis
-This project is an example of how data analysts use statistical models and code to create systematic reports. 
-Such systematic reporting and investigation is the heart and sole of the entire field of Big Data. 
-Here we propose some questions for investigation. Using visualisation in jupyter notebooks we make logical conclusions.
-In this project, I first make inferences and observations. I compute statistics like mean, median etc. then I take the test myself and 
-check how it compares with computed statistics. You are free to try the same.
+This project makes use of formal methods to analyse data and reach statistical conclusions. These methods include hypothesis proposition and hypothesis testing. The statistical test carried out was the two-tailed dependent t-test. Upon comparing it to the t-critical value, a conclusion was made and the confidence interval of the same was noted. 
+The advantage of such systematic testing is that it helps us make ACCURATE DEDUCTIONS instead of rough estimates based on the trends observed in the data. This is particularly useful in social sciences and laboratory research. 
+This project demonstrates my thorough understanding of the basics of descriptive and inferential statistics. 
